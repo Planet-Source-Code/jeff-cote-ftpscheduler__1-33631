@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=FTPConfig.vbp
+Project=FTP_JPC.vbp
+Project=FTPAutoExec.vbp
